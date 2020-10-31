@@ -3,17 +3,17 @@
 
 You can use the [editor on GitHub](https://github.com/KavishNama/html-css-js-coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[Week 2 - HTML File](https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/index.html)
+[Week 2 - HTML File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-2-Solution/index.html)
 
-[Week 2 - CSS File](https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/css/style.css)
+[Week 2 - CSS File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-2-Solution/css/style.css)
 
-[Week 3 - HTML File](https://kavishnama.github.io/html-css-js-coursera/Week-3-Solution/index.html)
+[Week 3 - HTML File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-3-Solution/index.html)
 
-[Week 3 - CSS File](https://kavishnama.github.io/html-css-js-coursera/Week-3-Solution/css/style.css)
+[Week 3 - CSS File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-3-Solution/css/style.css)
 
-[Week 4 - HTML File](https://kavishnama.github.io/html-css-js-coursera/Week-4-Solution/index.html)
+[Week 4 - HTML File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-4-Solution/index.html)
 
-[Week 5 - HTML File](https://kavishnama.github.io/html-css-js-coursera/Week-5-Solution/index.html)
+[Week 5 - HTML File](https://animeshmahajan18.github.io/html-css-js-coursera/Week-5-Solution/index.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
