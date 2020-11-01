@@ -6,6 +6,6 @@
 
 [Week 3 - Assignment](https://animeshmahajan18.github.io/Week3sol/)
 
-[Week 4 - Assignment](https://animeshmahajan18.github.io/Week3sol/)
+[Week 4 - Assignment](https://animeshmahajan18.github.io/Week4sol/)
 
 [Week 5 - HTML File](https://animeshmahajan18.github.io/Week3sol/)
